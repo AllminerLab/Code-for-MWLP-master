@@ -5,9 +5,9 @@ Please refer to Community Detection by Motif-aware Label Propagation which has b
 
 Usage: run the Main.m function (substitute the dataset with your preferred one)
 
-% Main.m: the main function for MWLP
+Main.m: the main function for MWLP
 
-% MWLP_new.m: the implementation of MWLP
+MWLP_new.m: the implementation of MWLP
 
-% MotifAdjacency.m: forms the motif adjacency matrix
+MotifAdjacency.m: forms the motif adjacency matrix
 
