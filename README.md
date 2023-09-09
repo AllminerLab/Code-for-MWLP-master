@@ -11,6 +11,6 @@ MWLP_new.m: the implementation of MWLP
 
 MotifAdjacency.m: forms the motif adjacency matrix
 
-References: Man-Sheng Chen, Ling Huang, Chang-Dong Wang and Dong Huang, "Multi-view Clustering in Latent Embedding Space." AAAI 2020.
+References: Pei-Zhen Li, Ling Huang, Chang-Dong Wang, and Jian-Huang Lai. "Community Detection by Motif-Aware Label Propagation", TKDD2020.
 
 
